@@ -33,18 +33,8 @@ function App() {
           <Route exact path='/about' element={<About />} />
           <Route exact path='/contact' element={<Contact />} />
           <Route exact path='/Register' element={<Register />} />
-
-
-
-
         </Routes>
-
       </BrowserRouter> */}
-
-
-
-
-
       {/* <h1 className="text-3xl font-bold underline">Ave Maria </h1>
       <h2 className='text-purple-500'>please Help me to finish this project and bless me and give me your grace and protect me wiht blood of Jesus Amen</h2> */}
     </div>
